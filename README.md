@@ -1,4 +1,4 @@
-# ML-Minor-Project
+# ML-MINOR-FEB
 
 This is my Machine Learning - Minor Project, I have worked on **Support Vector Machine** library and created np array dataframe from the data cars and bikes images.
 
